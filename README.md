@@ -5,7 +5,7 @@ Library to abstract SabreDAV library from your own (Web\Card\Cal) DAV implementa
 
 ## License
 
-This library is under the MIT license. See the complete license in the wrapper:
+This library is under the MIT license. See the complete license in the library:
 
 [LICENSE](https://github.com/CloudManaged/sabre-dav-abstraction/LICENSE)
 
