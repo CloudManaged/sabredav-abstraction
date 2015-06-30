@@ -1,0 +1,23 @@
+{
+    "name": "cloudmanaged/sabredav-abstraction",
+    "description": "CloudManaged - SabreDAV server abstraction",
+    "authors": [
+        {
+            "name": "Israel Sotomayor",
+            "email": "israel@contactzilla.com"
+        }
+    ],
+    "keywords": ["core", "sabredav", "dav", "server", "abstraction"],
+    "type": "library",
+    "require": {
+        "php": ">=5.5.9",
+        "sabre/dav": "~3.0.0",
+        "illuminate/support": "~5.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CloudManaged\\Sabre\\DAV\\Abstraction\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
